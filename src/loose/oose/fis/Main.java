@@ -1,3 +1,4 @@
+package loose.oose.fis; //comentariu 2
 package loose.oose.fis; //comentariu 1
 
 import loose.oose.fis.documents.Document;
